@@ -2,6 +2,7 @@
 This project is the result of a joint effort between myself and Jeremiah Grace Oonyu, conducted at the Institute for Advanced Architecture of Catalonia (IAAC). It was part of the innovative course "AI in the Built Environment", which was expertly led by Angelos Chronis and Serjoscha Duering.
 
 This code is based on a project by Boris Belousov. We found his work helpful and used it as a guide. You can check out Belousov's project through the provided link.
+
 Youtube : https://www.youtube.com/watch?v=KGCvldN5Fpc
 Paper : http://papers.cumincad.org/data/works/att/ecaade2021_247.pdf
 Github : https://github.com/b4be1/rl-for-sequential-assembly
