@@ -9,3 +9,4 @@ Github : https://github.com/b4be1/rl-for-sequential-assembly
 
 The grasshopper file is used to construct the environment. This is where the observation space, reward funciton, reset condition and rules of the project are defined. The user can create there own custom environment and make changes to any part of the code as deemed necessary except for the two components demonstrated in the illustration below. Instead use the ouptut of the first component "itteration" and "action" as necessary. Once you have defined your experiment, plug the "observation", "reward", "done" and "action" to the final component. The two components are used to communicate with an external IDE which is used for the learning process.
 
+<img width="541" alt="image" src="https://github.com/muhammadtaimurmian/Learning_to_plan/assets/119614192/85601c65-7fba-4fa2-b125-9c0f77b3a804">
